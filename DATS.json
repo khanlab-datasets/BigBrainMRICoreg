@@ -1,0 +1,144 @@
+{
+  "title": "Accurate registration of the BigBrain dataset with the MNI PD25 and ICBM152 atlases",
+  "description": "Co-registration of the BigBrain atlas with the MNI PD25 and ICBM152 atlases",
+  "dates": [
+    {
+      "@type": "Date",
+      "date": "2019-03-19 00:00:00",
+      "type": {
+        "@type": "Annotation",
+        "value": "Start Date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "fullName": "Yiming Xiao",
+      "firstName": "Yiming",
+      "middleName": "",
+      "lastName": "Xiao",
+      "afiliations": 
+      [
+        {
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Jonathan C. Lau",
+      "firstName": "Jonathan",
+      "middleName": "C.",
+      "lastName": "Lau",
+      "affiliations":
+      [
+        {
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        },
+        { 
+          "name": "School of Biomedical Engineering, Western University, Canada"
+        },
+        { 
+          "name": "Department of Clinical Neurological Sciences, Division of Neurosurgery, Western University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Taylor Anderson",
+      "firstName": "Taylor",
+      "middleName": "",
+      "lastName": "Anderson",
+      "affiliations":
+      [
+        {
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Jordan DeKraker",
+      "firstName": "Jordan",
+      "middleName": "",
+      "lastName": "DeKraker",
+      "affiliations":
+      [
+        {
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "D. Louis Collins",
+      "firstName": "D. Louis",
+      "middleName": "",
+      "lastName": "Collins",
+      "affiliations":
+      [
+        {
+          "name": "Montreal Neurological Institute, McGill University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Terry M. Peters",
+      "firstName": "Terry",
+      "middleName": "M.",
+      "lastName": "Peters",
+      "affiliations":
+      [
+        {
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        },
+	{
+	  "name": "School of Biomedical Engineering, Western University, Canada"
+	},
+	{
+	  "name": "Department of Medical Biophysics, Schulich School of Medicine and Dentistry, Western University, Canada"
+	}
+      ]
+   },
+   {
+     "fullName": "Ali R. Khan",
+     "firstName": "Ali",
+     "middleName": "R.",
+     "lastName": "Khan",
+     "affiliations":
+     [
+       {
+         "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+       },   
+       {
+         "name": "School of Biomedical Engineering, Western University, Canada"
+       },
+       {
+         "name": "Department of Medical Biophysics, Schulich School of Medicine and Dentistry, Western University, Canada"
+       },
+       {
+         "name": "The Brain and Mind Institute, Western University, Canada"
+       }
+     ]
+   }
+  ],
+  "storedIn": {
+    "name": "Open Science Framework"
+  },
+  "types": [
+    {
+      "method": {
+        "value": "Histology"
+      }
+    },
+    {
+      "method": {
+        "value": "MRI"
+      }
+    }
+  ],
+  "version": "1.0.0",
+  "privacy": "Open Access",
+  "licenses": [
+    {
+      "@type": "License",
+      "name": "CC-By Attribution 4.0 International"
+    }
+  ]
+}
