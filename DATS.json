@@ -15,7 +15,6 @@
     {
       "fullName": "Yiming Xiao",
       "firstName": "Yiming",
-      "middleName": "",
       "lastName": "Xiao",
       "affiliations": 
       [
@@ -27,7 +26,7 @@
     {
       "fullName": "Jonathan C. Lau",
       "firstName": "Jonathan",
-      "middleName": "C.",
+      "middleInitial": "C.",
       "lastName": "Lau",
       "affiliations":
       [
@@ -45,7 +44,6 @@
     {
       "fullName": "Taylor Anderson",
       "firstName": "Taylor",
-      "middleName": "",
       "lastName": "Anderson",
       "affiliations":
       [
@@ -57,7 +55,6 @@
     {
       "fullName": "Jordan DeKraker",
       "firstName": "Jordan",
-      "middleName": "",
       "lastName": "DeKraker",
       "affiliations":
       [
@@ -69,7 +66,6 @@
     {
       "fullName": "D. Louis Collins",
       "firstName": "D. Louis",
-      "middleName": "",
       "lastName": "Collins",
       "affiliations":
       [
@@ -81,7 +77,7 @@
     {
       "fullName": "Terry M. Peters",
       "firstName": "Terry",
-      "middleName": "M.",
+      "middleInitial": "M.",
       "lastName": "Peters",
       "affiliations":
       [
@@ -99,7 +95,7 @@
    {
      "fullName": "Ali R. Khan",
      "firstName": "Ali",
-     "middleName": "R.",
+     "middleInitial": "R.",
      "lastName": "Khan",
      "affiliations":
      [
@@ -147,7 +143,7 @@
 				"MINC",
 				"NIfTI"
             		],
-			"size" : "11",
+			"size" : 11,
 		        "unit" : {
             			"value": "GB"
 		        },
