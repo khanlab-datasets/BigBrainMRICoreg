@@ -185,6 +185,14 @@
 					"value": "75"
 				}
 			]
+		},
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "logo.png"
+				}
+			]
 		}
 	]
 }
