@@ -129,6 +129,23 @@
       }
     }
   ],
+  "keywords": [
+		{
+			"value" : "MRI"
+		},
+		{
+			"value" : "BigBrain Atlas"
+		},
+		{
+			"value" : "MNI PD25"
+		},
+		{
+			"value" : "human brain"
+		},
+		{
+			"value" : "ICBM152"
+		}
+  ],
   "version": "1.0.0",
   "privacy": "Open Access",
   "licenses": [
