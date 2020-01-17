@@ -179,6 +179,14 @@
 			]
 		},
 		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "Canadian"
+				}
+			]
+		},
+		{
 			"category": "logo",
 			"values": [
 				{
