@@ -166,7 +166,11 @@
 		        },
 			"access": {
 				"landingPage": "https://github.com/khanlab-datasets/BigBrainMRICoreg",
-				"annotation": "public"
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
 			}
 		}
 	],
