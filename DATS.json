@@ -15,7 +15,6 @@
     {
       "fullName": "Yiming Xiao",
       "firstName": "Yiming",
-      "middleName": "",
       "lastName": "Xiao",
       "affiliations": 
       [
@@ -27,7 +26,7 @@
     {
       "fullName": "Jonathan C. Lau",
       "firstName": "Jonathan",
-      "middleName": "C.",
+      "middleInitial": "C.",
       "lastName": "Lau",
       "affiliations":
       [
@@ -45,7 +44,6 @@
     {
       "fullName": "Taylor Anderson",
       "firstName": "Taylor",
-      "middleName": "",
       "lastName": "Anderson",
       "affiliations":
       [
@@ -57,7 +55,6 @@
     {
       "fullName": "Jordan DeKraker",
       "firstName": "Jordan",
-      "middleName": "",
       "lastName": "DeKraker",
       "affiliations":
       [
@@ -69,7 +66,6 @@
     {
       "fullName": "D. Louis Collins",
       "firstName": "D. Louis",
-      "middleName": "",
       "lastName": "Collins",
       "affiliations":
       [
@@ -81,7 +77,7 @@
     {
       "fullName": "Terry M. Peters",
       "firstName": "Terry",
-      "middleName": "M.",
+      "middleInitial": "M.",
       "lastName": "Peters",
       "affiliations":
       [
@@ -99,7 +95,7 @@
    {
      "fullName": "Ali R. Khan",
      "firstName": "Ali",
-     "middleName": "R.",
+     "middleInitial": "R.",
      "lastName": "Khan",
      "affiliations":
      [
@@ -133,6 +129,23 @@
       }
     }
   ],
+  "keywords": [
+		{
+			"value" : "MRI"
+		},
+		{
+			"value" : "BigBrain Atlas"
+		},
+		{
+			"value" : "MNI PD25"
+		},
+		{
+			"value" : "human brain"
+		},
+		{
+			"value" : "ICBM152"
+		}
+  ],
   "version": "1.0.0",
   "privacy": "Open Access",
   "licenses": [
@@ -140,5 +153,59 @@
       "@type": "License",
       "name": "CC-By Attribution 4.0 International"
     }
-  ]
+  ],
+  "distributions": [
+	        {
+			"formats": [
+				"MINC",
+				"NIfTI"
+            		],
+			"size" : 11,
+		        "unit" : {
+            			"value": "GB"
+		        },
+			"access": {
+				"landingPage": "https://github.com/khanlab-datasets/BigBrainMRICoreg",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
+  "extraProperties": [
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "75"
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "Canadian"
+				}
+			]
+		},
+		{
+			"category": "contact",
+			"values": [
+				{
+					"value": "Ali R. Khan, Khan Computational Imaging Lab, Robarts Research Institute, University of Western Ontario  alik@robarts.ca"
+				}
+			]
+		},
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "logo.png"
+				}
+			]
+		}
+	]
 }
