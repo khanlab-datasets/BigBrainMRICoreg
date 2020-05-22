@@ -1,0 +1,216 @@
+{
+  "title": "Accurate registration of the BigBrain dataset with the MNI PD25 and ICBM152 atlases",
+  "description": "Co-registration of the BigBrain atlas with the MNI PD25 and ICBM152 atlases",
+  "dates": [
+    {
+      "@type": "Date",
+      "date": "2019-03-19 00:00:00",
+      "type": {
+        "@type": "Annotation",
+        "value": "Start Date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "fullName": "Yiming Xiao",
+      "firstName": "Yiming",
+      "lastName": "Xiao",
+      "affiliations": 
+      [
+        {
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Jonathan C. Lau",
+      "firstName": "Jonathan",
+      "middleInitial": "C.",
+      "lastName": "Lau",
+      "affiliations":
+      [
+        {
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        },
+        { 
+          "name": "School of Biomedical Engineering, Western University, Canada"
+        },
+        { 
+          "name": "Department of Clinical Neurological Sciences, Division of Neurosurgery, Western University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Taylor Anderson",
+      "firstName": "Taylor",
+      "lastName": "Anderson",
+      "affiliations":
+      [
+        {
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Jordan DeKraker",
+      "firstName": "Jordan",
+      "lastName": "DeKraker",
+      "affiliations":
+      [
+        {
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "D. Louis Collins",
+      "firstName": "D. Louis",
+      "lastName": "Collins",
+      "affiliations":
+      [
+        {
+          "name": "Montreal Neurological Institute, McGill University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Terry M. Peters",
+      "firstName": "Terry",
+      "middleInitial": "M.",
+      "lastName": "Peters",
+      "affiliations":
+      [
+        {
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        },
+	{
+	  "name": "School of Biomedical Engineering, Western University, Canada"
+	},
+	{
+	  "name": "Department of Medical Biophysics, Schulich School of Medicine and Dentistry, Western University, Canada"
+	}
+      ]
+   },
+   {
+     "fullName": "Ali R. Khan",
+     "firstName": "Ali",
+     "middleInitial": "R.",
+     "lastName": "Khan",
+     "roles": [
+		{
+			"value": "Principal Investigator"
+		}
+     ],
+     "affiliations":
+     [
+       {
+         "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+       },   
+       {
+         "name": "School of Biomedical Engineering, Western University, Canada"
+       },
+       {
+         "name": "Department of Medical Biophysics, Schulich School of Medicine and Dentistry, Western University, Canada"
+       },
+       {
+         "name": "The Brain and Mind Institute, Western University, Canada"
+       }
+     ]
+   }
+  ],
+  "storedIn": {
+    "name": "Open Science Framework"
+  },
+  "types": [
+    {
+      "information": {
+        "value": "Histology"
+      }
+    },
+    {
+      "method": {
+        "value": "MRI"
+      }
+    }
+  ],
+  "keywords": [
+		{
+			"value" : "MRI"
+		},
+		{
+			"value" : "BigBrain Atlas"
+		},
+		{
+			"value" : "MNI PD25"
+		},
+		{
+			"value" : "human brain"
+		},
+		{
+			"value" : "ICBM152"
+		}
+  ],
+  "version": "1.0.0",
+  "privacy": "Open Access",
+  "licenses": [
+    {
+      "@type": "License",
+      "name": "CC-By Attribution 4.0 International"
+    }
+  ],
+  "distributions": [
+	        {
+			"formats": [
+				"MINC",
+				"NIfTI"
+            		],
+			"size" : 11,
+		        "unit" : {
+            			"value": "GB"
+		        },
+			"access": {
+				"landingPage": "https://github.com/khanlab-datasets/BigBrainMRICoreg",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
+  "extraProperties": [
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "75"
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "Canadian"
+				}
+			]
+		},
+		{
+			"category": "contact",
+			"values": [
+				{
+					"value": "Ali R. Khan, Khan Computational Imaging Lab, Robarts Research Institute, University of Western Ontario  alik@robarts.ca"
+				}
+			]
+		},
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "logo.png"
+				}
+			]
+		}
+	]
+}

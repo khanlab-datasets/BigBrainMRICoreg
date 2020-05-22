@@ -1,0 +1,240 @@
+{
+	"@context": 
+		[
+			{ 
+				"dats": "https://w3id.org/dats/schema/",
+				"dimensions": "dats:dimensions",
+				"extraProperties": "dats:extraProperties"
+			},
+			{
+				"sdo": "https://schema.org/",
+				"Dataset": "sdo:Dataset",
+				"title": {
+					"@id": "sdo:name",
+					"@type": "sdo:Text"
+				},
+				"description": {
+					"@id": "sdo:description",
+					"@type": "sdo:Text"
+				},
+				"distributions": {
+					"@id": "sdo:distribution",
+					"@type": "sdo:DataDownload"
+				},
+				"primaryPublications": "sdo:citation",
+				"citations": "sdo:citation",
+				"producedBy": "sdo:producer",
+				"creators": "sdo:creator",
+				"licenses": "sdo:license",
+				"isAbout": "sdo:about",
+				"hasPart": "sdo:hasPart",
+				"acknowledges": "sdo:funder",
+				"keywords": "sdo:keywords",
+				"dates": "sdo:date",
+				"storedIn": "sdo:url"
+			}
+		],
+  "title": "Accurate registration of the BigBrain dataset with the MNI PD25 and ICBM152 atlases",
+  "description": "Co-registration of the BigBrain atlas with the MNI PD25 and ICBM152 atlases",
+  "dates": [
+    {
+    	"@id": "https://w3id.org/dats/schema/date_info_schema.json",
+    	"@type": "Date",
+      "@type": "Date",
+      "date": "2019-03-19 00:00:00",
+      "type": {
+        "@type": "Annotation",
+        "value": "Start Date"
+      }
+    }
+  ],
+  "creators": [
+    {
+    	"@id": "https://w3id.org/dats/schema/annotation_schema.json",
+    	"@type": "Annotation",
+      "fullName": "Yiming Xiao",
+      "firstName": "Yiming",
+      "middleName": "",
+      "lastName": "Xiao",
+      "affiliations": 
+      [
+        {
+        	"@id": "https://w3id.org/dats/schema/organization_schema.json",
+        	"@type": "creators",
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Jonathan C. Lau",
+      "firstName": "Jonathan",
+      "middleName": "C.",
+      "lastName": "Lau",
+      "affiliations":
+      [
+        {
+        	"@id": "https://w3id.org/dats/schema/organization_schema.json",
+        	"@type": "creators",
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        },
+        { "@id": "https://w3id.org/dats/schema/organization_schema.json",
+          "@type": "creators",
+          "name": "School of Biomedical Engineering, Western University, Canada"
+        },
+        { "@id": "https://w3id.org/dats/schema/organization_schema.json",
+          "@type": "creators",
+          "name": "Department of Clinical Neurological Sciences, Division of Neurosurgery, Western University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Taylor Anderson",
+      "firstName": "Taylor",
+      "middleName": "",
+      "lastName": "Anderson",
+      "affiliations":
+      [
+        {
+        	"@id": "https://w3id.org/dats/schema/organization_schema.json",
+        	"@type": "creators",
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Jordan DeKraker",
+      "firstName": "Jordan",
+      "middleName": "",
+      "lastName": "DeKraker",
+      "affiliations":
+      [
+        {
+        	"@id": "https://w3id.org/dats/schema/organization_schema.json",
+        	"@type": "creators",
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "D. Louis Collins",
+      "firstName": "D. Louis",
+      "middleName": "",
+      "lastName": "Collins",
+      "affiliations":
+      [
+        {
+        	"@id": "https://w3id.org/dats/schema/organization_schema.json",
+        	"@type": "creators",
+          "name": "Montreal Neurological Institute, McGill University, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Terry M. Peters",
+      "firstName": "Terry",
+      "middleName": "M.",
+      "lastName": "Peters",
+      "affiliations":
+      [
+        {
+        	"@id": "https://w3id.org/dats/schema/organization_schema.json",
+        	"@type": "creators",
+          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+        },
+	{"@id": "https://w3id.org/dats/schema/organization_schema.json",
+        	"@type": "creators",
+	  "name": "School of Biomedical Engineering, Western University, Canada"
+	},
+	{"@id": "https://w3id.org/dats/schema/organization_schema.json",
+        	"@type": "creators",
+	  "name": "Department of Medical Biophysics, Schulich School of Medicine and Dentistry, Western University, Canada"
+	}
+      ]
+   },
+   {
+     "fullName": "Ali R. Khan",
+     "firstName": "Ali",
+     "middleName": "R.",
+     "lastName": "Khan",
+     "affiliations":
+     [
+       {
+       	"@id": "https://w3id.org/dats/schema/organization_schema.json",
+       	"@type": "creators",
+         "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
+       },   
+       {"@id": "https://w3id.org/dats/schema/organization_schema.json",
+        	"@type": "creators",
+         "name": "School of Biomedical Engineering, Western University, Canada"
+       },
+       {"@id": "https://w3id.org/dats/schema/organization_schema.json",
+        	"@type": "creators",
+         "name": "Department of Medical Biophysics, Schulich School of Medicine and Dentistry, Western University, Canada"
+       },
+       {"@id": "https://w3id.org/dats/schema/organization_schema.json",
+        	"@type": "creators",
+         "name": "The Brain and Mind Institute, Western University, Canada"
+       }
+     ]
+   }
+  ],
+  "storedIn": {
+    "name": "Open Science Framework"
+  },
+  "types": [
+    {
+      "method": {
+        "value": "Histology"
+      }
+    },
+    {
+      "method": {
+        "value": "MRI"
+      }
+    }
+  ],
+  "version": "1.0.0",
+  "privacy": "Open Access",
+  "licenses": [
+    {
+    	"@id": "https://w3id.org/dats/schema/license_schema.json",
+    	"@type": "License",
+      "name": "CC-By Attribution 4.0 International"
+    }
+  ],
+  "distributions": [
+	        {
+	        	"@id": "http://json-schema.org/draft-04/schema",
+	        	"@type": "DatasetDistribution",
+			"formats": [
+				"MINC",
+				"NIfTI"
+            		],
+			"size" : "11",
+		        "unit" : {
+            			"value": "GB"
+		        },
+			"access": {
+				"landingPage": "https://www.internationalgenome.org/"
+			}
+		}
+	],
+  "extraProperties": [
+		{
+			"category": "contact",
+			"values": [
+				{
+					"value": "Jennifer Tremblay-Mercier, Research Co-ordinator, jennifer.tremblay-mercier@douglas.mcgill.ca, 514-761-6131 #3329"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "75"
+				}
+			]
+		}
+	]
+}
