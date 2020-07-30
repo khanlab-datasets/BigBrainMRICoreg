@@ -3,10 +3,8 @@
   "description": "Co-registration of the BigBrain atlas with the MNI PD25 and ICBM152 atlases",
   "dates": [
     {
-      "@type": "Date",
       "date": "2019-03-19 00:00:00",
       "type": {
-        "@type": "Annotation",
         "value": "Start Date"
       }
     }
@@ -16,7 +14,7 @@
       "fullName": "Yiming Xiao",
       "firstName": "Yiming",
       "lastName": "Xiao",
-      "affiliations": 
+      "affiliations":
       [
         {
           "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
@@ -33,10 +31,10 @@
         {
           "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
         },
-        { 
+        {
           "name": "School of Biomedical Engineering, Western University, Canada"
         },
-        { 
+        {
           "name": "Department of Clinical Neurological Sciences, Division of Neurosurgery, Western University, Canada"
         }
       ]
@@ -106,7 +104,7 @@
      [
        {
          "name": "Imaging Research Laboratories, Robarts Research Institute, Western University, Canada"
-       },   
+       },
        {
          "name": "School of Biomedical Engineering, Western University, Canada"
        },
@@ -189,10 +187,13 @@
 			]
 		},
 		{
-			"category": "CONP_status",
+			"category": "origin",
 			"values": [
 				{
-					"value": "Canadian"
+					"institution": "University of Western Ontario",
+					"city": "London",
+					"province": "Ontario",
+					"country": "Canada"
 				}
 			]
 		},
