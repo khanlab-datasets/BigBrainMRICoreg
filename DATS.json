@@ -187,13 +187,34 @@
 			]
 		},
 		{
-			"category": "origin",
+			"category": "origin_city",
 			"values": [
 				{
-					"institution": "University of Western Ontario",
-					"city": "London",
-					"province": "Ontario",
-					"country": "Canada"
+					"institution": "London"
+				}
+			]
+		},
+		{
+			"category": "origin_province",
+			"values": [
+				{
+					"institution": "Ontario"
+				}
+			]
+		},
+		{
+			"category": "origin_country",
+			"values": [
+				{
+					"institution": "Canada"
+				}
+			]
+		},
+		{
+			"category": "origin_institution",
+			"values": [
+				{
+					"institution": "University of Western Ontario"
 				}
 			]
 		},
