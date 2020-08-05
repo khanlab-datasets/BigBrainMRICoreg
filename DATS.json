@@ -190,7 +190,7 @@
 			"category": "origin_city",
 			"values": [
 				{
-					"institution": "London"
+					"value": "London"
 				}
 			]
 		},
@@ -198,7 +198,7 @@
 			"category": "origin_province",
 			"values": [
 				{
-					"institution": "Ontario"
+					"value": "Ontario"
 				}
 			]
 		},
@@ -206,7 +206,7 @@
 			"category": "origin_country",
 			"values": [
 				{
-					"institution": "Canada"
+					"value": "Canada"
 				}
 			]
 		},
@@ -214,7 +214,7 @@
 			"category": "origin_institution",
 			"values": [
 				{
-					"institution": "University of Western Ontario"
+					"value": "University of Western Ontario"
 				}
 			]
 		},
