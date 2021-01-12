@@ -5,7 +5,7 @@
     {
       "date": "2019-03-19 00:00:00",
       "type": {
-        "value": "Start Date"
+        "value": "start date"
       }
     }
   ],
@@ -162,7 +162,7 @@
 			"formats": [
 				"MINC",
 				"NIfTI"
-            		],
+            ],
 			"size" : 11,
 		        "unit" : {
             			"value": "GB"
