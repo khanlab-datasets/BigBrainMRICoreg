@@ -154,7 +154,8 @@
   "licenses": [
     {
       "@type": "License",
-      "name": "CC-By Attribution 4.0 International"
+      "name": "CC-BY-4.0",
+      "version": "4.0"
     }
   ],
   "distributions": [
