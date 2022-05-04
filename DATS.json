@@ -150,11 +150,12 @@
 		}
   ],
   "version": "1.0.0",
-  "privacy": "Open Access",
+  "privacy": "open",
   "licenses": [
     {
       "@type": "License",
-      "name": "CC-By Attribution 4.0 International"
+      "name": "CC BY-4.0",
+      "version": "4.0"
     }
   ],
   "distributions": [
@@ -183,6 +184,14 @@
 			"values": [
 				{
 					"value": "75"
+				}
+			]
+		},
+		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "1"
 				}
 			]
 		},
